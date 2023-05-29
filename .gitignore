@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Dacoder.Webfileserver/bin/Debug/net7.0
+/Dacoder.Webfileserver/obj
+/Dacoder.Webfileserver/Properties
+/Dacoder.Webfileserver/Dacoder.Webfileserver.csproj.user
+/Dacoder.Webfileserver/wildcard_irsik_club.pfx
+/Dacoder.Webfileserver/appsettings.Development.json
